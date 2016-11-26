@@ -1,0 +1,15 @@
+C:\Users\JooPo\Documents\Visual Studio 2015\Projects\RC-control_Wheel\RC-control\bin\Release\RC-control.exe.config
+C:\Users\JooPo\Documents\Visual Studio 2015\Projects\RC-control_Wheel\RC-control\obj\Release\RC-control.exe
+C:\Users\JooPo\Documents\Visual Studio 2015\Projects\RC-control_Wheel\RC-control\obj\Release\RC-control.pdb
+C:\Users\JooPo\Documents\Visual Studio 2015\Projects\RC-control_Wheel\RC-control\bin\Release\RC-control.exe.manifest
+C:\Users\JooPo\Documents\Visual Studio 2015\Projects\RC-control_Wheel\RC-control\bin\Release\RC-control.application
+C:\Users\JooPo\Documents\Visual Studio 2015\Projects\RC-control_Wheel\RC-control\bin\Release\RC-control.exe
+C:\Users\JooPo\Documents\Visual Studio 2015\Projects\RC-control_Wheel\RC-control\bin\Release\RC-control.pdb
+C:\Users\JooPo\Documents\Visual Studio 2015\Projects\RC-control_Wheel\RC-control\bin\Release\SlimDX.dll
+C:\Users\JooPo\Documents\Visual Studio 2015\Projects\RC-control_Wheel\RC-control\obj\Release\RC-control_Wheel.csprojResolveAssemblyReference.cache
+C:\Users\JooPo\Documents\Visual Studio 2015\Projects\RC-control_Wheel\RC-control\obj\Release\RC_control.Form1.resources
+C:\Users\JooPo\Documents\Visual Studio 2015\Projects\RC-control_Wheel\RC-control\obj\Release\RC_control.Properties.Resources.resources
+C:\Users\JooPo\Documents\Visual Studio 2015\Projects\RC-control_Wheel\RC-control\obj\Release\RC-control_Wheel.csproj.GenerateResource.Cache
+C:\Users\JooPo\Documents\Visual Studio 2015\Projects\RC-control_Wheel\RC-control\obj\Release\RC-control.TrustInfo.xml
+C:\Users\JooPo\Documents\Visual Studio 2015\Projects\RC-control_Wheel\RC-control\obj\Release\RC-control.exe.manifest
+C:\Users\JooPo\Documents\Visual Studio 2015\Projects\RC-control_Wheel\RC-control\obj\Release\RC-control.application
